@@ -1,5 +1,9 @@
 # PP2 Tracker iPhonelle (testiversio)
 
+## [⬇ Lataa PP2Tracker.ipa](https://github.com/nousiainenlassi-afk/pp2-tracker-ios-julkaisut/releases/latest/download/PP2Tracker.ipa)
+
+Lataa tiedosto tietokoneelle ja asenna se alla olevien ohjeiden mukaan (vaihe 4). Ohjeet ovat tällä samalla sivulla.
+
 PP2 Tracker on iPhone-apuohjelma **Pro Pilkki 2** -peliin. Se katsoo pelin ruutua puhelimen
 näytön tallennuksella, tunnistaa nostetut kalat (laji ja paino), tunnistaa kisatyypin ja laskee
 kisan pisteet pelin sääntöjen mukaan. Tulokset näkyvät sovelluksessa ja halutessasi pienessä
@@ -33,7 +37,7 @@ Siksi ohjelma asennetaan itse omalla ilmaisella Apple ID:llä (ns. sideloading).
 
 ## 1. Lataa ohjelma
 
-Lataa uusin **PP2Tracker.ipa** tämän repon [Releases-sivulta](../../releases/latest).
+Lataa uusin **PP2Tracker.ipa**: [lataa tästä](https://github.com/nousiainenlassi-afk/pp2-tracker-ios-julkaisut/releases/latest/download/PP2Tracker.ipa).
 Älä pura tiedostoa: se asennetaan sellaisenaan.
 
 ## 2. Asenna tietokoneelle tarvittavat ohjelmat (Windows)
