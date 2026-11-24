@@ -4,6 +4,8 @@
 
 Lataa tiedosto tietokoneelle ja asenna se alla olevien ohjeiden mukaan (vaihe 4). Ohjeet ovat tällä samalla sivulla.
 
+Uusin versio: **0.10** · [Päivityshistoria](PAIVITYSHISTORIA.md)
+
 PP2 Tracker on iPhone-apuohjelma **Pro Pilkki 2** -peliin. Se katsoo pelin ruutua puhelimen
 näytön tallennuksella, tunnistaa nostetut kalat (laji ja paino), tunnistaa kisatyypin ja laskee
 kisan pisteet pelin sääntöjen mukaan. Tulokset näkyvät sovelluksessa ja halutessasi pienessä
